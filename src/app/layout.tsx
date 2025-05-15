@@ -10,7 +10,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Dentcare",
+  title: "Dentcare | Your Smile, Our Passion",
   description: "At DentCare, we believe every smile tells a story. Our mission is to provide personalized, high-quality dental care that keeps your teeth healthy and your confidence glowing.",
 };
 
